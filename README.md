@@ -34,8 +34,4 @@ it('Link test', function () {
     cy.get('#search_mini_form > .form-search > label > .icon',{force: true}).click()
 
 
-
-
-
-
 })
