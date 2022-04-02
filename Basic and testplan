@@ -43,11 +43,11 @@ Introduction
 Test strategy includes all types of testing performed for the mobile app for the complete login process and also the workflow includes the successful login and then leads  to the main screen  landing page of the mobile application
 Scope
 In Scope
-Scope defines the features, functional or non-functional requirements of the mobile app that will be tested 
+The functional requirements of the mobile app that will be tested and automation will done for the usability of the login page and this will be on the second layer of the testing pyramid that is the visual and the usability testing of the login page.
 	
 Out of Scope
 
-Out Of Scope defines the features, functional or non-functional requirements of the software that will NOT be tested 
+Non-functional requirements of the software that will NOT be tested 
 Quality Objective
 •	Ensure the AUT meets the quality specifications defined by the client
 •	Bugs/issues are identified and fixed before go live
@@ -64,7 +64,7 @@ Detail description of the Roles and responsibilities of different team members l
 
 Test Methodology
 Overview
-Mention the reason of adopting a particular test methodology for the project.  The test methodology selected for the project could be
+The test methodology selected for the project could be
 •	Agile
 •	Extreme Programming
 The methodology selected depends on multiple factors. You can read about Test Methodology here 
@@ -89,11 +89,10 @@ Test completeness includes the follwing criteria
 •	All open bugs are fixed or will be fixed in next release.
 
 Test Deliverables
-Here mention all the Test Artifacts that will be delivered during different phases of the testing lifecycle.  
-Here are the sample deliverables
+Here are the deliverables
 •	Test Plan
 •	Test Cases 
-•	Requirement Traceability Matrix
+•	Test scripts
 •	Bug Reports
 •	Test Strategy
 •	Test Metrics
@@ -102,13 +101,12 @@ Resource & Environment Needs
 
 Testing Tools
 List of Tools required are as follows:
-•	Requirements Tracking Tool
+•	Jira - Requirements Tracking Tool
 •	Jira - Bug Tracking Tool
 •	Appium - Automation Tools
 •	
 Test Environment
 It mentions the minimum hardware requirements that will be used to test the Application.  
 Following software’s are required:
-•	iOS  and above
-•	Android  and above
-
+•	iOS 13.0 and above
+•	Android 9 -Pie and above
