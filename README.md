@@ -26,7 +26,7 @@ https://www.mytheresa.com/en-de/men.html) and visit that link to verify that:
 ■ the page returns 200 or 30x status codes
 ■ the page returns no 40x status codes
 
-Please Note: For this scenario i have tried get all the links locations in order to verfiy the status code for this link: https://www.mytheresa.com/en-de/men.html, to check hwther 200 or 30x stauta code are appearing and there are no 40x error codes appeairng on this page.
+Please Note: For this scenario i have tried to get all the links locations in order to verify the status code for this link: https://www.mytheresa.com/en-de/men.html, to check hwther 200 or 30x status code are appearing and there are no 40x error codes appeairng on this page.
 
 /// <reference types="cypress" />
 
