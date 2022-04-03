@@ -26,6 +26,8 @@ https://www.mytheresa.com/en-de/men.html) and visit that link to verify that:
 ■ the page returns 200 or 30x status codes
 ■ the page returns no 40x status codes
 
+Please Note: For this scenario i have tried get all the links locations in order to verfiy the status code for this link: https://www.mytheresa.com/en-de/men.html, to check hwther 200 or 30x stauta code are appearing and there are no 40x error codes appeairng on this page.
+
 /// <reference types="cypress" />
 
 
@@ -52,6 +54,7 @@ As a product owner, I want to see how many open pull requests are there for our
 product. You can use https://github.com/appwrite/appwrite/pulls as an example
 product
 ● Output is a list of PR in CSV format with PR name, created date and author
+Please note: For this case i have tried to locate in order to download CSV however it is not complete sinceneed to  use cy.write function in order to download the csv as out put with all the mentioned information
 
 
 /// <reference types="cypress" />
